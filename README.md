@@ -78,79 +78,79 @@
 **AI 工具**（3）
 - [Gemini 4 Hydrogen 国内怎么用：免费额度够不够日常](https://haiwanai.com/scenario/ai/gemini-4-hydrogen-cn/) · 2026-11-18
 - [GPT-6.2 找不到 Astra：2026 年 11 月先查这三处](https://haiwanai.com/scenario/ai/gpt-6-2-astra-entry/) · 2026-11-18
-- [ChatGPT 老是弹验证码？AI 重度用户的机场挑选思路](https://haiwanai.com/scenario/ai/_index/) · 
+- [AI 重度用户用什么机场？2026 按任务选型](https://haiwanai.com/scenario/ai/_index/) · 
 
 **设计出图**（3）
 - [Nano Banana 2.1 国内怎么用：2026 年 11 月的三道关](https://haiwanai.com/scenario/design/nano-banana-2-1-cn/) · 2026-11-17
 - [Midjourney 国内怎么用：2026 年先解决这两步](https://haiwanai.com/scenario/design/midjourney-cn/) · 2026-11-17
-- [Midjourney 出图断线重排队？画图机场挑法与避坑](https://haiwanai.com/scenario/design/_index/) · 
+- [美工出图用什么机场？2026 按任务选型](https://haiwanai.com/scenario/design/_index/) · 
 
 **家长/学生机**（2）
 - [三口之家机场怎么选：100 元预算，三台设备怎么分](https://haiwanai.com/scenario/parent/family-three-budget-airport/) · 2026-11-18
-- [电视上放不了英文动画？给娃看视频的机场配置法](https://haiwanai.com/scenario/parent/_index/) · 
-
-**商务办公**（1）
-- [酒店 Wi-Fi 连不上视频会议？出差党机场应急配置](https://haiwanai.com/scenario/business/_index/) · 
-
-**Apple 生态**（1）
-- [苹果全家桶多设备同步卡？iCloud 换区机场选法](https://haiwanai.com/scenario/apple/_index/) · 
-
-**金融行情**（1）
-- [网银登录被风控冻结？外贸财务机场看 IP 洁净度](https://haiwanai.com/scenario/finance/_index/) · 
-
-**学生党**（1）
-- [留学生交作业掉线误事？校园网翻墙方案与机场选择](https://haiwanai.com/scenario/student/_index/) · 
-
-**海淘购物**（1）
-- [海淘下单被砍单？亚马逊风控与账单地址的机场配法](https://haiwanai.com/scenario/shopping/_index/) · 
-
-**游戏加速**（1）
-- [打外服游戏延迟高丢包？低延迟机场怎么挑](https://haiwanai.com/scenario/gaming/_index/) · 
-
-**手机端**（1）
-- [手机没电脑怎么配机场？纯手机用户的订阅导入指南](https://haiwanai.com/scenario/mobile/_index/) · 
-
-**小团队**（1）
-- [小团队合租机场总打架？多人共享订阅的分工方案](https://haiwanai.com/scenario/team/_index/) · 
-
-**流媒体解锁**（1）
-- [奈飞看不了提示代理？追剧机场怎么选带解锁实测](https://haiwanai.com/scenario/streaming/_index/) · 
-
-**路由器/软路由**（1）
-- [全家设备怎么共享一个机场？路由器全局代理的坑我都踩了](https://haiwanai.com/scenario/router/_index/) · 
-
-**长期稳定**（1）
-- [便宜机场用两个月就跑？被坑过后我选机场只看这几点](https://haiwanai.com/scenario/stable/_index/) · 
-
-**跨境卖家**（1）
-- [亚马逊账号突然要二审？跨境卖家选机场踩过的雷](https://haiwanai.com/scenario/seller/_index/) · 
-
-**先试再买**（1）
-- [不想年付被套牢？先月付试用机场的正确测法](https://haiwanai.com/scenario/trial/_index/) · 
-
-**开发部署**（1）
-- [git clone 和 npm install 走不动？程序员的机场用法和普通人不一样](https://haiwanai.com/scenario/dev/_index/) · 
-
-**社媒运营**（1）
-- [YouTube 视频传一半就断？做自媒体的上传带宽焦虑](https://haiwanai.com/scenario/social/_index/) · 
-
-**桌面端**（1）
-- [Windows 电脑 Clash 客户端怎么配？纯电脑党机场挑选](https://haiwanai.com/scenario/desktop/_index/) · 
-
-**量化交易**（1）
-- [WhatsApp 老要重新验证？外贸业务长连接与固定 IP 的选法](https://haiwanai.com/scenario/trading/_index/) · 
-
-**自由职业接单**（1）
-- [Upwork 账号老被人工审核？自由职业者的 IP 地区一致性](https://haiwanai.com/scenario/freelance/_index/) · 
-
-**音乐流媒体**（1）
-- [Spotify 提示「当前地区不可用」？按曲库解锁选听歌机场](https://haiwanai.com/scenario/music/_index/) · 
-
-**学习科研**（1）
-- [Coursera 视频卡在进度条？论文与网课场景的机场带宽选择](https://haiwanai.com/scenario/study/_index/) · 
+- [家长用什么机场？2026 按任务选型](https://haiwanai.com/scenario/parent/_index/) · 
 
 **低预算**（1）
-- [10 块钱的机场能用吗？低预算试水的正确姿势](https://haiwanai.com/scenario/budget/_index/) · 
+- [预算极低用什么机场？2026 按任务选型](https://haiwanai.com/scenario/budget/_index/) · 
+
+**音乐流媒体**（1）
+- [音乐播客用什么机场？2026 按任务选型](https://haiwanai.com/scenario/music/_index/) · 
+
+**流媒体解锁**（1）
+- [追剧用什么机场？2026 按任务选型](https://haiwanai.com/scenario/streaming/_index/) · 
+
+**路由器/软路由**（1）
+- [路由器全局用什么机场？2026 按任务选型](https://haiwanai.com/scenario/router/_index/) · 
+
+**跨境卖家**（1）
+- [跨境卖家用什么机场？2026 按任务选型](https://haiwanai.com/scenario/seller/_index/) · 
+
+**金融行情**（1）
+- [财务外贸用什么机场？2026 按任务选型](https://haiwanai.com/scenario/finance/_index/) · 
+
+**Apple 生态**（1）
+- [苹果全家桶用什么机场？2026 按任务选型](https://haiwanai.com/scenario/apple/_index/) · 
+
+**自由职业接单**（1）
+- [自由职业用什么机场？2026 按任务选型](https://haiwanai.com/scenario/freelance/_index/) · 
+
+**社媒运营**（1）
+- [自媒体用什么机场？2026 按任务选型](https://haiwanai.com/scenario/social/_index/) · 
+
+**长期稳定**（1）
+- [稳定优先用什么机场？2026 按任务选型](https://haiwanai.com/scenario/stable/_index/) · 
+
+**开发部署**（1）
+- [程序员用什么机场？2026 按任务选型](https://haiwanai.com/scenario/dev/_index/) · 
+
+**学生党**（1）
+- [留学生用什么机场？2026 按任务选型](https://haiwanai.com/scenario/student/_index/) · 
+
+**游戏加速**（1）
+- [游戏玩家用什么机场？2026 按任务选型](https://haiwanai.com/scenario/gaming/_index/) · 
+
+**海淘购物**（1）
+- [海淘购物用什么机场？2026 按任务选型](https://haiwanai.com/scenario/shopping/_index/) · 
+
+**小团队**（1）
+- [小团队用什么机场？2026 按任务选型](https://haiwanai.com/scenario/team/_index/) · 
+
+**学习科研**（1）
+- [学习论文用什么机场？2026 按任务选型](https://haiwanai.com/scenario/study/_index/) · 
+
+**量化交易**（1）
+- [外贸业务用什么机场？2026 按任务选型](https://haiwanai.com/scenario/trading/_index/) · 
+
+**桌面端**（1）
+- [只有电脑用什么机场？2026 按任务选型](https://haiwanai.com/scenario/desktop/_index/) · 
+
+**手机端**（1）
+- [只有手机用什么机场？2026 按任务选型](https://haiwanai.com/scenario/mobile/_index/) · 
+
+**商务办公**（1）
+- [公司出差用什么机场？2026 按任务选型](https://haiwanai.com/scenario/business/_index/) · 
+
+**先试再买**（1）
+- [先试用用什么机场？2026 按任务选型](https://haiwanai.com/scenario/trial/_index/) · 
 
 ### 跑路预警与证据（10 篇）
 
@@ -192,18 +192,18 @@
 | [极速Cloud](https://haiwanlink.com/38?site=13hao) | 15 元 | 15 元 | 200GB | 0.075 | 11 | 在营 |
 | [KuLi云](https://haiwanlink.com/66?site=13hao) | 16.8 元 | 16.8 元 | 150GB | 0.112 | 5 | 在营 |
 | [扬帆云](https://haiwanlink.com/59?site=13hao) | 19.99 元 | 19.99 元 | 100 GB/周期 | 0.200 | 13 | 在营 |
-| [酷酷云](https://haiwanlink.com/17?site=13hao) | 20 元 | 20 元 | 100GB | 0.200 | 4 | 在营 |
-| [SS-ID](https://haiwanlink.com/19?site=13hao) | 20 元 | 20 元 | 100 GB | 0.200 | 7 | 在营 |
 | [闪狐云](https://haiwanlink.com/15?site=13hao) | 20 元 | 20 元 | 120GB | 0.167 | 4 | 在营 |
+| [SS-ID](https://haiwanlink.com/19?site=13hao) | 20 元 | 20 元 | 100 GB | 0.200 | 7 | 在营 |
+| [酷酷云](https://haiwanlink.com/17?site=13hao) | 20 元 | 20 元 | 100GB | 0.200 | 4 | 在营 |
 | [百变小樱](https://haiwanlink.com/53?site=13hao) | 25 元 | 25 元 | 200GB（重置） | 0.125 | 23 | 在营 |
 | [红杏云](https://haiwanlink.com/20?site=13hao) | 28.8 元 | 28.8 元 | 200 GB（可购买重置包） | 0.144 | 6 | 在营 |
 | [CyberGuard](https://haiwanlink.com/12?site=13hao) | 32 元 | 32 元 | 350GB（特惠双倍至700GB） | 0.091 | 7 | 在营 |
 | [大象网络](https://haiwanlink.com/33?site=13hao) | 35 元 | 35 元 | 300GB | 0.117 | 4 | 在营 |
 | [悠兔](https://haiwanlink.com/13?site=13hao) | 39 元 | 39 元 | 150GB | 0.260 | 7 | 在营 |
 | [Nexitally](https://haiwanlink.com/58?site=13hao) | 74.55 元 | 74.55 元 | 200GB/31天 | 0.373 | 8 | 在营 |
-| [一枝红杏](https://haiwanlink.com/16?site=13hao) | — | — | 100GB | — | 2 | 在营 |
 | [BoostNet](https://haiwanlink.com/21?site=13hao) | — | — | 20GB | — | 5 | 在营 |
 | [wgetcloud](https://haiwanlink.com/55?site=13hao) | — | — | 230GB（30天重置，季付档显示）；月付160GB、年付280GB | — | 3 | 在营 |
+| [一枝红杏](https://haiwanlink.com/16?site=13hao) | — | — | 100GB | — | 2 | 在营 |
 | [TAG](https://haiwanlink.com/54?site=13hao) | 114 元 | 114 元 | 500 GB（重置） | 0.228 | 6 | 在营 |
 
 <a name="cheap"></a>
@@ -495,30 +495,30 @@
 
 商家口径：200Mbps·等级一节点·全球节点+解锁流媒体·标准节点；等级一二节点·解锁流媒体；部分IEPL·解锁流媒体；2Gbps·全等级节点含全IEPL专线·买3送1·解锁流媒体；不限速(另标2000Mbps)·全等级节点·买3送1·解锁流媒体。均为商家标注，本站未做商用测速。
 
-### 酷酷云 —— AI 工具支持：原生解锁 ChatGPT、Claud…
+### 闪狐云 —— BGP隧道中转，IPLC高速内网纯专线出口
 
 | 项目 | 详情 |
 |:---|:---|
-| 最低月付 | 20 元（VIP-1 · 100GB） |
+| 最低月付 | 20 元（Basic Plan · 120GB） |
 | 折合月价最低 | 20 元（年付/一次性摊平后，看单 GB 更准） |
-| 单 GB 成本 | 0.200 元/GB（按最低档算） |
+| 单 GB 成本 | 0.167 元/GB（按最低档算） |
 | 大陆直连 | 是（商家标注） |
-| 标称带宽 | 1000Mbps |
-| 流媒体 / AI | 全面支持 Netflix / Hulu / HBO / Disney+ / Dazn 等主流平台，秒开4K，畅享8K 超高清观影体验 |
+| 标称带宽 | 1000Mbps速率，晚高峰不限速 |
+| 流媒体 / AI | 解锁全球流媒体、AI工具 |
 | 套餐数量 | 4 档 |
-| 官网 | [前往](https://haiwanlink.com/17?site=13hao) |
-| 站内深评 | [完整测评](https://haiwanai.com/review/酷酷云/) |
+| 官网 | [前往](https://haiwanlink.com/15?site=13hao) |
+| 站内深评 | [完整测评](https://haiwanai.com/review/闪狐云/) |
 
-**酷酷云 全部套餐**（数据快照 2026-11-05）
+**闪狐云 全部套餐**（数据快照 2026-11-12）
 
 | 套餐 | 价格 | 周期 | 流量 | 折合月价 | 单 GB | 客户端数 |
 |:---|--:|:--|:---|--:|--:|:---|
-| VIP-1 | 20 元 | 月付 | 100GB | 20 元 | 0.200 元 | 不限制设备 |
-| VIP-2 | 40 元 | 月付 | 200GB | 40 元 | 0.200 元 | 不限制设备 |
-| VIP-3 | 90 元 | 月付 | 500GB | 90 元 | 0.180 元 | 不限制设备 |
-| VIP-4 | 160 元 | 月付 | 1000GB | 160 元 | 0.160 元 | 不限制设备 |
+| Basic Plan | 20 元 | 月付 | 120GB | 20 元 | 0.167 元 | 不限设备/IP |
+| Standard Plan | 40 元 | 月付 | 240GB | 40 元 | 0.167 元 | 不限设备/IP |
+| Advanced Plan | 72 元 | 月付 | 500GB | 72 元 | 0.144 元 | 不限设备/IP |
+| Premium Plan | 125 元 | 月付 | 1000GB | 125 元 | 0.125 元 | 不限设备/IP |
 
-商家口径：BGP三网专线、不限速不降速、所有节点x1倍率；解锁Netflix/Hulu/HBO/Disney+/Dazn及ChatGPT/Claude；Trojan协议；购买链接/checkout?id=3；购买链接/checkout?id=4。均为商家标注，本站未做商用测速。
+商家口径：BGP中转+IPLC专线出口；trojan；解锁流媒体/AI；1000Mbps不限速。均为商家标注，本站未做商用测速。
 
 ### SS-ID —— IEPL专线加速，告别卡顿延迟
 
@@ -548,30 +548,30 @@
 
 商家口径：流量每月账单日重置；IEPL专线加速；全球流媒体解锁；7×24小时技术支持；99.9%稳定运行保障。均为商家标注，本站未做商用测速。
 
-### 闪狐云 —— BGP隧道中转，IPLC高速内网纯专线出口
+### 酷酷云 —— AI 工具支持：原生解锁 ChatGPT、Claud…
 
 | 项目 | 详情 |
 |:---|:---|
-| 最低月付 | 20 元（Basic Plan · 120GB） |
+| 最低月付 | 20 元（VIP-1 · 100GB） |
 | 折合月价最低 | 20 元（年付/一次性摊平后，看单 GB 更准） |
-| 单 GB 成本 | 0.167 元/GB（按最低档算） |
+| 单 GB 成本 | 0.200 元/GB（按最低档算） |
 | 大陆直连 | 是（商家标注） |
-| 标称带宽 | 1000Mbps速率，晚高峰不限速 |
-| 流媒体 / AI | 解锁全球流媒体、AI工具 |
+| 标称带宽 | 1000Mbps |
+| 流媒体 / AI | 全面支持 Netflix / Hulu / HBO / Disney+ / Dazn 等主流平台，秒开4K，畅享8K 超高清观影体验 |
 | 套餐数量 | 4 档 |
-| 官网 | [前往](https://haiwanlink.com/15?site=13hao) |
-| 站内深评 | [完整测评](https://haiwanai.com/review/闪狐云/) |
+| 官网 | [前往](https://haiwanlink.com/17?site=13hao) |
+| 站内深评 | [完整测评](https://haiwanai.com/review/酷酷云/) |
 
-**闪狐云 全部套餐**（数据快照 2026-11-12）
+**酷酷云 全部套餐**（数据快照 2026-11-05）
 
 | 套餐 | 价格 | 周期 | 流量 | 折合月价 | 单 GB | 客户端数 |
 |:---|--:|:--|:---|--:|--:|:---|
-| Basic Plan | 20 元 | 月付 | 120GB | 20 元 | 0.167 元 | 不限设备/IP |
-| Standard Plan | 40 元 | 月付 | 240GB | 40 元 | 0.167 元 | 不限设备/IP |
-| Advanced Plan | 72 元 | 月付 | 500GB | 72 元 | 0.144 元 | 不限设备/IP |
-| Premium Plan | 125 元 | 月付 | 1000GB | 125 元 | 0.125 元 | 不限设备/IP |
+| VIP-1 | 20 元 | 月付 | 100GB | 20 元 | 0.200 元 | 不限制设备 |
+| VIP-2 | 40 元 | 月付 | 200GB | 40 元 | 0.200 元 | 不限制设备 |
+| VIP-3 | 90 元 | 月付 | 500GB | 90 元 | 0.180 元 | 不限制设备 |
+| VIP-4 | 160 元 | 月付 | 1000GB | 160 元 | 0.160 元 | 不限制设备 |
 
-商家口径：BGP中转+IPLC专线出口；trojan；解锁流媒体/AI；1000Mbps不限速。均为商家标注，本站未做商用测速。
+商家口径：BGP三网专线、不限速不降速、所有节点x1倍率；解锁Netflix/Hulu/HBO/Disney+/Dazn及ChatGPT/Claude；Trojan协议；购买链接/checkout?id=3；购买链接/checkout?id=4。均为商家标注，本站未做商用测速。
 
 <a name="high"></a>
 ## 🏛️ 20 元以上（7 家）
@@ -831,4 +831,4 @@
 - 我们不做代购、不收上架费；推广链接在表格里直接标出，不藏在文末。
 - 「标称带宽」「流媒体解锁」均为商家标注，本站未做商用测速，数据里没有的写「未标注」。
 
-<sub>数据快照 2026-11-19 13:24（UTC+8）· 最近提交 2026-11-19 17:32</sub>
+<sub>数据快照 2026-11-19 17:59（UTC+8）· 最近提交 2026-11-19 18:20</sub>
