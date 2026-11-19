@@ -17,33 +17,153 @@
 
 今日更新：无变动，价格与昨天一致。
 
-站内近 10 天新发布 28 篇：
-- [三口之家机场怎么选：100 元预算，三台设备怎么分](https://haiwanai.com/scenario/parent/family-three-budget-airport/) · 2026-11-18
-- [Gemini 4 Hydrogen 国内怎么用：免费额度够不够日常](https://haiwanai.com/scenario/ai/gemini-4-hydrogen-cn/) · 2026-11-18
-- [GPT-6.2 找不到 Astra：2026 年 11 月先查这三处](https://haiwanai.com/scenario/ai/gpt-6-2-astra-entry/) · 2026-11-18
-- [2026年闪狐云机场测评：四档说明一字不差，20 元档单价反而最贵](https://haiwanai.com/review/闪狐云/) · 2026-11-18
-- [2026年酷酷云机场测评：全节点 1 倍率写进价签，100GB 真能用 100GB，每 GB 多付 0.08 元](https://haiwanai.com/review/酷酷云/) · 2026-11-18
-- [2026年自由猫机场测评：19.9 元那一跳单价最贵，7.9 元买到 7 个设备位](https://haiwanai.com/review/自由猫/) · 2026-11-18
+站内近 10 天新发布 38 篇：
+- [龙猫云跑路预警全记录：2026年续费风险与登录故障事件](https://haiwanai.com/paolu/longmaoyun-paolu-evidence-20261119/) · 2026-11-19
+- [隐云跑路了吗？与奈云同主体风险的完整梳理（2026年11月）](https://haiwanai.com/paolu/yinyun-paolu-evidence-20261119/) · 2026-11-19
+- [速蛙云跑路全记录：2022年头部机场拔线始末与挂站警示](https://haiwanai.com/paolu/suwayun-paolu-evidence-20261119/) · 2026-11-19
+- [极速云失联记录：GitHub已收录预警，年付大包损失上限高（2026年11月）](https://haiwanai.com/paolu/jisuyun-paolu-evidence-20261119/) · 2026-11-19
+- [奈云（V2NY）跑路全记录：2026年7月倒闭事件与同主体连锁风险](https://haiwanai.com/paolu/naiyun-paolu-evidence-20261119/) · 2026-11-19
+- [万达云跑路了吗？2026年11月最新状态与证据全记录](https://haiwanai.com/paolu/wandayun-paolu-evidence-20261119/) · 2026-11-19
 
 <a name="latest"></a>
 ## 🆕 站内最新发布
 
+- **2026-11-19** [龙猫云跑路预警全记录：2026年续费风险与登录故障事件](https://haiwanai.com/paolu/longmaoyun-paolu-evidence-20261119/)
+- **2026-11-19** [隐云跑路了吗？与奈云同主体风险的完整梳理（2026年11月）](https://haiwanai.com/paolu/yinyun-paolu-evidence-20261119/)
+- **2026-11-19** [速蛙云跑路全记录：2022年头部机场拔线始末与挂站警示](https://haiwanai.com/paolu/suwayun-paolu-evidence-20261119/)
+- **2026-11-19** [极速云失联记录：GitHub已收录预警，年付大包损失上限高（2026年11月）](https://haiwanai.com/paolu/jisuyun-paolu-evidence-20261119/)
+- **2026-11-19** [奈云（V2NY）跑路全记录：2026年7月倒闭事件与同主体连锁风险](https://haiwanai.com/paolu/naiyun-paolu-evidence-20261119/)
+- **2026-11-19** [万达云跑路了吗？2026年11月最新状态与证据全记录](https://haiwanai.com/paolu/wandayun-paolu-evidence-20261119/)
+- **2026-11-19** [VikingLinks 失联记录：长预付机场的兑现风险（2026年11月）](https://haiwanai.com/paolu/vikinglinks-paolu-evidence-20261119/)
+- **2026-11-19** [Seutyre 机场跑路实录：开业 40 天就收割，低价陷阱的完整时间线（2026）](https://haiwanai.com/paolu/seutyre-paolu-evidence-20261119/)
+- **2026-11-19** [Seele Cloud（西尔云）停服失联：2026年11月高危状态记录](https://haiwanai.com/paolu/seele-cloud-paolu-evidence-20261119/)
+- **2026-11-19** [SKYLUMO跑路实锤：2026年10月官网下线事件全记录](https://haiwanai.com/paolu/skylumo-paolu-evidence-20261119/)
 - **2026-11-18** [三口之家机场怎么选：100 元预算，三台设备怎么分](https://haiwanai.com/scenario/parent/family-three-budget-airport/)
 - **2026-11-18** [Gemini 4 Hydrogen 国内怎么用：免费额度够不够日常](https://haiwanai.com/scenario/ai/gemini-4-hydrogen-cn/)
 - **2026-11-18** [GPT-6.2 找不到 Astra：2026 年 11 月先查这三处](https://haiwanai.com/scenario/ai/gpt-6-2-astra-entry/)
 - **2026-11-18** [2026年闪狐云机场测评：四档说明一字不差，20 元档单价反而最贵](https://haiwanai.com/review/闪狐云/)
-- **2026-11-18** [2026年酷酷云机场测评：全节点 1 倍率写进价签，100GB 真能用 100GB，每 GB 多付 0.08 元](https://haiwanai.com/review/酷酷云/)
-- **2026-11-18** [2026年自由猫机场测评：19.9 元那一跳单价最贵，7.9 元买到 7 个设备位](https://haiwanai.com/review/自由猫/)
-- **2026-11-18** [2026年红杏云机场测评：带宽也写进了价签，四档满速都只够跑两小时](https://haiwanai.com/review/红杏云/)
-- **2026-11-18** [2026年秒秒云机场测评：每档都含 3 元起步费，6 元档单价反而最贵](https://haiwanai.com/review/秒秒云/)
-- **2026-11-18** [2026年百变小樱机场测评：加的钱正好买设备位，月付线 13.33 元一台、年付线 3.33 元一台](https://haiwanai.com/review/百变小樱/)
-- **2026-11-18** [2026年瑶瑶领先机场测评：9.9 元是一个人的 128GB，0.1 倍率线把它放大成 1280GB](https://haiwanai.com/review/瑶瑶领先/)
-- **2026-11-18** [2026年极速Cloud机场测评：1000G 月付 30 元，不限时 329 元，五档单价一分不降](https://haiwanai.com/review/极速Cloud/)
-- **2026-11-18** [2026年扬帆云机场测评：不限时包 = 月付 × 6，两年付 = 月付 × 24](https://haiwanai.com/review/扬帆云/)
-- **2026-11-18** [2026年悠兔机场测评：同一个 79 元，一边 500G 一个月，一边 150G 三个月](https://haiwanai.com/review/悠兔/)
-- **2026-11-18** [2026年山水云机场测评：月付 500G 每 GB 7 分 8，99 元的 100G 包 9 毛 9](https://haiwanai.com/review/山水云/)
 
 完整栏目：[任务攻略](https://haiwanai.com/scenario/) · [机场深评](https://haiwanai.com/review/) · [跑路预警](https://haiwanai.com/paolu/)
+
+## 📚 站内内容目录（62 篇）
+
+### 机场深评（23 篇）
+
+- [2026年闪狐云机场测评：四档说明一字不差，20 元档单价反而最贵](https://haiwanai.com/review/闪狐云/) · 2026-11-18
+- [2026年酷酷云机场测评：全节点 1 倍率写进价签，100GB 真能用 100GB，每 GB 多付 0.08 元](https://haiwanai.com/review/酷酷云/) · 2026-11-18
+- [2026年自由猫机场测评：19.9 元那一跳单价最贵，7.9 元买到 7 个设备位](https://haiwanai.com/review/自由猫/) · 2026-11-18
+- [2026年红杏云机场测评：带宽也写进了价签，四档满速都只够跑两小时](https://haiwanai.com/review/红杏云/) · 2026-11-18
+- [2026年秒秒云机场测评：每档都含 3 元起步费，6 元档单价反而最贵](https://haiwanai.com/review/秒秒云/) · 2026-11-18
+- [2026年百变小樱机场测评：加的钱正好买设备位，月付线 13.33 元一台、年付线 3.33 元一台](https://haiwanai.com/review/百变小樱/) · 2026-11-18
+- [2026年瑶瑶领先机场测评：9.9 元是一个人的 128GB，0.1 倍率线把它放大成 1280GB](https://haiwanai.com/review/瑶瑶领先/) · 2026-11-18
+- [2026年极速Cloud机场测评：1000G 月付 30 元，不限时 329 元，五档单价一分不降](https://haiwanai.com/review/极速Cloud/) · 2026-11-18
+- [2026年扬帆云机场测评：不限时包 = 月付 × 6，两年付 = 月付 × 24](https://haiwanai.com/review/扬帆云/) · 2026-11-18
+- [2026年悠兔机场测评：同一个 79 元，一边 500G 一个月，一边 150G 三个月](https://haiwanai.com/review/悠兔/) · 2026-11-18
+- [2026年山水云机场测评：月付 500G 每 GB 7 分 8，99 元的 100G 包 9 毛 9](https://haiwanai.com/review/山水云/) · 2026-11-18
+- [2026年大象网络机场测评：35 元买日本住宅 IP，55 元买美国原生，500 元买独占](https://haiwanai.com/review/大象网络/) · 2026-11-18
+- [2026年夜煞云机场测评：付得越久越贵，4.83 元的月均最低，每 GB 却最贵](https://haiwanai.com/review/夜煞云/) · 2026-11-18
+- [2026年仙路湾机场测评：不限时包买 100G 还是 1000G，单价都是 0.50 元](https://haiwanai.com/review/仙路湾/) · 2026-11-18
+- [2026年一枝红杏机场测评：只卖年付，8.25 元/月的底价要先押一年](https://haiwanai.com/review/一枝红杏/) · 2026-11-18
+- [2026年wgetcloud机场测评：月费不变，月付 160G、季付 230G、年付 280G](https://haiwanai.com/review/wgetcloud/) · 2026-11-18
+- [2026年TAG机场测评：114 元档加一次 87 元重置，比 219 元的档还便宜](https://haiwanai.com/review/tag/) · 2026-11-18
+- [2026年SS-ID机场测评：新疆优化档 200G 卖 60 元，正好是同流量常规档的一倍](https://haiwanai.com/review/ss-id/) · 2026-11-18
+- [2026年Now加速机场测评：同一个 100GB，20 元卖 4 台，25 元卖 8 台](https://haiwanai.com/review/Now加速/) · 2026-11-18
+- [2026年Nexitally机场测评：200G 档是道收费站，往上跳的那 300GB 只要 0.16 元一 G](https://haiwanai.com/review/nexitally/) · 2026-11-18
+- [2026年KuLi云机场测评：29.9 元那一跳换了线路，92.8 元那一跳只换了价签](https://haiwanai.com/review/KuLi云/) · 2026-11-18
+- [2026年CyberGuard机场测评：四档订阅都挂着「特惠双倍」，三个不限时包一格没沾](https://haiwanai.com/review/cyberguard/) · 2026-11-18
+- [2026年BoostNet机场测评：「爆款」200G 半年付与 400G 季付是同一个 1200GB，还多收 40 元](https://haiwanai.com/review/boostnet/) · 2026-11-18
+
+### 任务攻略（29 篇）
+
+**AI 工具**（3）
+- [Gemini 4 Hydrogen 国内怎么用：免费额度够不够日常](https://haiwanai.com/scenario/ai/gemini-4-hydrogen-cn/) · 2026-11-18
+- [GPT-6.2 找不到 Astra：2026 年 11 月先查这三处](https://haiwanai.com/scenario/ai/gpt-6-2-astra-entry/) · 2026-11-18
+- [ChatGPT 老是弹验证码？AI 重度用户的机场挑选思路](https://haiwanai.com/scenario/ai/_index/) · 
+
+**设计出图**（3）
+- [Nano Banana 2.1 国内怎么用：2026 年 11 月的三道关](https://haiwanai.com/scenario/design/nano-banana-2-1-cn/) · 2026-11-17
+- [Midjourney 国内怎么用：2026 年先解决这两步](https://haiwanai.com/scenario/design/midjourney-cn/) · 2026-11-17
+- [Midjourney 出图断线重排队？画图机场挑法与避坑](https://haiwanai.com/scenario/design/_index/) · 
+
+**家长/学生机**（2）
+- [三口之家机场怎么选：100 元预算，三台设备怎么分](https://haiwanai.com/scenario/parent/family-three-budget-airport/) · 2026-11-18
+- [电视上放不了英文动画？给娃看视频的机场配置法](https://haiwanai.com/scenario/parent/_index/) · 
+
+**商务办公**（1）
+- [酒店 Wi-Fi 连不上视频会议？出差党机场应急配置](https://haiwanai.com/scenario/business/_index/) · 
+
+**Apple 生态**（1）
+- [苹果全家桶多设备同步卡？iCloud 换区机场选法](https://haiwanai.com/scenario/apple/_index/) · 
+
+**金融行情**（1）
+- [网银登录被风控冻结？外贸财务机场看 IP 洁净度](https://haiwanai.com/scenario/finance/_index/) · 
+
+**学生党**（1）
+- [留学生交作业掉线误事？校园网翻墙方案与机场选择](https://haiwanai.com/scenario/student/_index/) · 
+
+**海淘购物**（1）
+- [海淘下单被砍单？亚马逊风控与账单地址的机场配法](https://haiwanai.com/scenario/shopping/_index/) · 
+
+**游戏加速**（1）
+- [打外服游戏延迟高丢包？低延迟机场怎么挑](https://haiwanai.com/scenario/gaming/_index/) · 
+
+**手机端**（1）
+- [手机没电脑怎么配机场？纯手机用户的订阅导入指南](https://haiwanai.com/scenario/mobile/_index/) · 
+
+**小团队**（1）
+- [小团队合租机场总打架？多人共享订阅的分工方案](https://haiwanai.com/scenario/team/_index/) · 
+
+**流媒体解锁**（1）
+- [奈飞看不了提示代理？追剧机场怎么选带解锁实测](https://haiwanai.com/scenario/streaming/_index/) · 
+
+**路由器/软路由**（1）
+- [全家设备怎么共享一个机场？路由器全局代理的坑我都踩了](https://haiwanai.com/scenario/router/_index/) · 
+
+**长期稳定**（1）
+- [便宜机场用两个月就跑？被坑过后我选机场只看这几点](https://haiwanai.com/scenario/stable/_index/) · 
+
+**跨境卖家**（1）
+- [亚马逊账号突然要二审？跨境卖家选机场踩过的雷](https://haiwanai.com/scenario/seller/_index/) · 
+
+**先试再买**（1）
+- [不想年付被套牢？先月付试用机场的正确测法](https://haiwanai.com/scenario/trial/_index/) · 
+
+**开发部署**（1）
+- [git clone 和 npm install 走不动？程序员的机场用法和普通人不一样](https://haiwanai.com/scenario/dev/_index/) · 
+
+**社媒运营**（1）
+- [YouTube 视频传一半就断？做自媒体的上传带宽焦虑](https://haiwanai.com/scenario/social/_index/) · 
+
+**桌面端**（1）
+- [Windows 电脑 Clash 客户端怎么配？纯电脑党机场挑选](https://haiwanai.com/scenario/desktop/_index/) · 
+
+**量化交易**（1）
+- [WhatsApp 老要重新验证？外贸业务长连接与固定 IP 的选法](https://haiwanai.com/scenario/trading/_index/) · 
+
+**自由职业接单**（1）
+- [Upwork 账号老被人工审核？自由职业者的 IP 地区一致性](https://haiwanai.com/scenario/freelance/_index/) · 
+
+**音乐流媒体**（1）
+- [Spotify 提示「当前地区不可用」？按曲库解锁选听歌机场](https://haiwanai.com/scenario/music/_index/) · 
+
+**学习科研**（1）
+- [Coursera 视频卡在进度条？论文与网课场景的机场带宽选择](https://haiwanai.com/scenario/study/_index/) · 
+
+**低预算**（1）
+- [10 块钱的机场能用吗？低预算试水的正确姿势](https://haiwanai.com/scenario/budget/_index/) · 
+
+### 跑路预警与证据（10 篇）
+
+- [龙猫云跑路预警全记录：2026年续费风险与登录故障事件](https://haiwanai.com/paolu/longmaoyun-paolu-evidence-20261119/) · 2026-11-19
+- [隐云跑路了吗？与奈云同主体风险的完整梳理（2026年11月）](https://haiwanai.com/paolu/yinyun-paolu-evidence-20261119/) · 2026-11-19
+- [速蛙云跑路全记录：2022年头部机场拔线始末与挂站警示](https://haiwanai.com/paolu/suwayun-paolu-evidence-20261119/) · 2026-11-19
+- [极速云失联记录：GitHub已收录预警，年付大包损失上限高（2026年11月）](https://haiwanai.com/paolu/jisuyun-paolu-evidence-20261119/) · 2026-11-19
+- [奈云（V2NY）跑路全记录：2026年7月倒闭事件与同主体连锁风险](https://haiwanai.com/paolu/naiyun-paolu-evidence-20261119/) · 2026-11-19
+- [万达云跑路了吗？2026年11月最新状态与证据全记录](https://haiwanai.com/paolu/wandayun-paolu-evidence-20261119/) · 2026-11-19
+- [VikingLinks 失联记录：长预付机场的兑现风险（2026年11月）](https://haiwanai.com/paolu/vikinglinks-paolu-evidence-20261119/) · 2026-11-19
+- [Seutyre 机场跑路实录：开业 40 天就收割，低价陷阱的完整时间线（2026）](https://haiwanai.com/paolu/seutyre-paolu-evidence-20261119/) · 2026-11-19
+- [Seele Cloud（西尔云）停服失联：2026年11月高危状态记录](https://haiwanai.com/paolu/seele-cloud-paolu-evidence-20261119/) · 2026-11-19
+- [SKYLUMO跑路实锤：2026年10月官网下线事件全记录](https://haiwanai.com/paolu/skylumo-paolu-evidence-20261119/) · 2026-11-19
 
 <a name="featured"></a>
 ## 🏆 本期主推（4 家）
@@ -711,4 +831,4 @@
 - 我们不做代购、不收上架费；推广链接在表格里直接标出，不藏在文末。
 - 「标称带宽」「流媒体解锁」均为商家标注，本站未做商用测速，数据里没有的写「未标注」。
 
-<sub>数据快照 2026-11-19 13:24（UTC+8）· 最近提交 2026-11-19 17:31</sub>
+<sub>数据快照 2026-11-19 13:24（UTC+8）· 最近提交 2026-11-19 17:32</sub>
