@@ -4,7 +4,7 @@
 
 这是 [海湾情报局 haiwanai.com](https://haiwanai.com/tuijian/) 机场库的 GitHub 镜像：23 家在营机场，162 档套餐逐个列出价格、周期、流量和折合单价，每条都能在机场官网核对。我们不做测速造假，商家没写的一律标「未标注」。
 
-> 🏠 主站：[推荐总表](https://haiwanai.com/tuijian/) · [机场档案库](https://haiwanai.com/airport/) · [场景攻略](https://haiwanai.com/scenario/) · [跑路预警](https://haiwanai.com/paolu/) · [免费节点](https://haiwanai.com/free-node/)
+> 🏠 主站：[推荐总表](https://haiwanai.com/tuijian/) · [机场筛选库](https://haiwanai.com/filter/) · [场景攻略](https://haiwanai.com/scenario/) · [跑路预警](https://haiwanai.com/paolu/) · [免费节点](https://haiwanai.com/free-node/)
 > ⚠️ 订阅链接等同账号密码。第一次买任何机场都先月付，别一上来就年付。
 
 ## 📋 目录
@@ -45,7 +45,7 @@
 
 完整栏目：[任务攻略](https://haiwanai.com/scenario/) · [机场深评](https://haiwanai.com/review/) · [跑路预警](https://haiwanai.com/paolu/)
 
-## 📚 站内内容目录（62 篇）
+## 📚 站内内容目录（38 篇）
 
 ### 机场深评（23 篇）
 
@@ -73,84 +73,18 @@
 - [2026年CyberGuard机场测评：四档订阅都挂着「特惠双倍」，三个不限时包一格没沾](https://haiwanai.com/review/cyberguard/) · 2026-11-18
 - [2026年BoostNet机场测评：「爆款」200G 半年付与 400G 季付是同一个 1200GB，还多收 40 元](https://haiwanai.com/review/boostnet/) · 2026-11-18
 
-### 任务攻略（29 篇）
+### 任务攻略（5 篇）
 
-**AI 工具**（3）
+**AI 工具**（2）
 - [Gemini 4 Hydrogen 国内怎么用：免费额度够不够日常](https://haiwanai.com/scenario/ai/gemini-4-hydrogen-cn/) · 2026-11-18
 - [GPT-6.2 找不到 Astra：2026 年 11 月先查这三处](https://haiwanai.com/scenario/ai/gpt-6-2-astra-entry/) · 2026-11-18
-- [AI 重度用户用什么机场？2026 按任务选型](https://haiwanai.com/scenario/ai/_index/) · 
 
-**设计出图**（3）
+**设计出图**（2）
 - [Nano Banana 2.1 国内怎么用：2026 年 11 月的三道关](https://haiwanai.com/scenario/design/nano-banana-2-1-cn/) · 2026-11-17
 - [Midjourney 国内怎么用：2026 年先解决这两步](https://haiwanai.com/scenario/design/midjourney-cn/) · 2026-11-17
-- [美工出图用什么机场？2026 按任务选型](https://haiwanai.com/scenario/design/_index/) · 
 
-**家长/学生机**（2）
+**家长/学生机**（1）
 - [三口之家机场怎么选：100 元预算，三台设备怎么分](https://haiwanai.com/scenario/parent/family-three-budget-airport/) · 2026-11-18
-- [家长用什么机场？2026 按任务选型](https://haiwanai.com/scenario/parent/_index/) · 
-
-**低预算**（1）
-- [预算极低用什么机场？2026 按任务选型](https://haiwanai.com/scenario/budget/_index/) · 
-
-**音乐流媒体**（1）
-- [音乐播客用什么机场？2026 按任务选型](https://haiwanai.com/scenario/music/_index/) · 
-
-**流媒体解锁**（1）
-- [追剧用什么机场？2026 按任务选型](https://haiwanai.com/scenario/streaming/_index/) · 
-
-**路由器/软路由**（1）
-- [路由器全局用什么机场？2026 按任务选型](https://haiwanai.com/scenario/router/_index/) · 
-
-**跨境卖家**（1）
-- [跨境卖家用什么机场？2026 按任务选型](https://haiwanai.com/scenario/seller/_index/) · 
-
-**金融行情**（1）
-- [财务外贸用什么机场？2026 按任务选型](https://haiwanai.com/scenario/finance/_index/) · 
-
-**Apple 生态**（1）
-- [苹果全家桶用什么机场？2026 按任务选型](https://haiwanai.com/scenario/apple/_index/) · 
-
-**自由职业接单**（1）
-- [自由职业用什么机场？2026 按任务选型](https://haiwanai.com/scenario/freelance/_index/) · 
-
-**社媒运营**（1）
-- [自媒体用什么机场？2026 按任务选型](https://haiwanai.com/scenario/social/_index/) · 
-
-**长期稳定**（1）
-- [稳定优先用什么机场？2026 按任务选型](https://haiwanai.com/scenario/stable/_index/) · 
-
-**开发部署**（1）
-- [程序员用什么机场？2026 按任务选型](https://haiwanai.com/scenario/dev/_index/) · 
-
-**学生党**（1）
-- [留学生用什么机场？2026 按任务选型](https://haiwanai.com/scenario/student/_index/) · 
-
-**游戏加速**（1）
-- [游戏玩家用什么机场？2026 按任务选型](https://haiwanai.com/scenario/gaming/_index/) · 
-
-**海淘购物**（1）
-- [海淘购物用什么机场？2026 按任务选型](https://haiwanai.com/scenario/shopping/_index/) · 
-
-**小团队**（1）
-- [小团队用什么机场？2026 按任务选型](https://haiwanai.com/scenario/team/_index/) · 
-
-**学习科研**（1）
-- [学习论文用什么机场？2026 按任务选型](https://haiwanai.com/scenario/study/_index/) · 
-
-**量化交易**（1）
-- [外贸业务用什么机场？2026 按任务选型](https://haiwanai.com/scenario/trading/_index/) · 
-
-**桌面端**（1）
-- [只有电脑用什么机场？2026 按任务选型](https://haiwanai.com/scenario/desktop/_index/) · 
-
-**手机端**（1）
-- [只有手机用什么机场？2026 按任务选型](https://haiwanai.com/scenario/mobile/_index/) · 
-
-**商务办公**（1）
-- [公司出差用什么机场？2026 按任务选型](https://haiwanai.com/scenario/business/_index/) · 
-
-**先试再买**（1）
-- [先试用用什么机场？2026 按任务选型](https://haiwanai.com/scenario/trial/_index/) · 
 
 ### 跑路预警与证据（10 篇）
 
@@ -831,4 +765,4 @@
 - 我们不做代购、不收上架费；推广链接在表格里直接标出，不藏在文末。
 - 「标称带宽」「流媒体解锁」均为商家标注，本站未做商用测速，数据里没有的写「未标注」。
 
-<sub>数据快照 2026-11-19 17:59（UTC+8）· 最近提交 2026-11-19 18:20</sub>
+<sub>数据快照 2026-11-19 17:59（UTC+8）· 最近提交 2026-11-19 18:31</sub>
