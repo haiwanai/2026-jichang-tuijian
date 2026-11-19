@@ -17,7 +17,7 @@
 
 今日更新：无变动，价格与昨天一致。
 
-站内近 10 天新发布 38 篇：
+站内近 10 天新发布 39 篇：
 - [龙猫云跑路预警全记录：2026年续费风险与登录故障事件](https://haiwanai.com/paolu/longmaoyun-paolu-evidence-20261119/) · 2026-11-19
 - [隐云跑路了吗？与奈云同主体风险的完整梳理（2026年11月）](https://haiwanai.com/paolu/yinyun-paolu-evidence-20261119/) · 2026-11-19
 - [速蛙云跑路全记录：2022年头部机场拔线始末与挂站警示](https://haiwanai.com/paolu/suwayun-paolu-evidence-20261119/) · 2026-11-19
@@ -38,14 +38,14 @@
 - **2026-11-19** [Seutyre 机场跑路实录：开业 40 天就收割，低价陷阱的完整时间线（2026）](https://haiwanai.com/paolu/seutyre-paolu-evidence-20261119/)
 - **2026-11-19** [Seele Cloud（西尔云）停服失联：2026年11月高危状态记录](https://haiwanai.com/paolu/seele-cloud-paolu-evidence-20261119/)
 - **2026-11-19** [SKYLUMO跑路实锤：2026年10月官网下线事件全记录](https://haiwanai.com/paolu/skylumo-paolu-evidence-20261119/)
+- **2026-11-19** [OpenAI 新规 11 月 20 日生效：用中转接口的先做三件事](https://haiwanai.com/scenario/ai/openai-gateway-policy/)
 - **2026-11-18** [三口之家机场怎么选：100 元预算，三台设备怎么分](https://haiwanai.com/scenario/parent/family-three-budget-airport/)
 - **2026-11-18** [Gemini 4 Hydrogen 国内怎么用：免费额度够不够日常](https://haiwanai.com/scenario/ai/gemini-4-hydrogen-cn/)
 - **2026-11-18** [GPT-6.2 找不到 Astra：2026 年 11 月先查这三处](https://haiwanai.com/scenario/ai/gpt-6-2-astra-entry/)
-- **2026-11-18** [2026年闪狐云机场测评：四档说明一字不差，20 元档单价反而最贵](https://haiwanai.com/review/闪狐云/)
 
 完整栏目：[任务攻略](https://haiwanai.com/scenario/) · [机场深评](https://haiwanai.com/review/) · [跑路预警](https://haiwanai.com/paolu/)
 
-## 📚 站内内容目录（38 篇）
+## 📚 站内内容目录（39 篇）
 
 ### 机场深评（23 篇）
 
@@ -73,9 +73,10 @@
 - [2026年CyberGuard机场测评：四档订阅都挂着「特惠双倍」，三个不限时包一格没沾](https://haiwanai.com/review/cyberguard/) · 2026-11-18
 - [2026年BoostNet机场测评：「爆款」200G 半年付与 400G 季付是同一个 1200GB，还多收 40 元](https://haiwanai.com/review/boostnet/) · 2026-11-18
 
-### 任务攻略（5 篇）
+### 任务攻略（6 篇）
 
-**AI 工具**（2）
+**AI 工具**（3）
+- [OpenAI 新规 11 月 20 日生效：用中转接口的先做三件事](https://haiwanai.com/scenario/ai/openai-gateway-policy/) · 2026-11-19
 - [Gemini 4 Hydrogen 国内怎么用：免费额度够不够日常](https://haiwanai.com/scenario/ai/gemini-4-hydrogen-cn/) · 2026-11-18
 - [GPT-6.2 找不到 Astra：2026 年 11 月先查这三处](https://haiwanai.com/scenario/ai/gpt-6-2-astra-entry/) · 2026-11-18
 
@@ -765,4 +766,4 @@
 - 我们不做代购、不收上架费；推广链接在表格里直接标出，不藏在文末。
 - 「标称带宽」「流媒体解锁」均为商家标注，本站未做商用测速，数据里没有的写「未标注」。
 
-<sub>数据快照 2026-11-19 17:59（UTC+8）· 最近提交 2026-11-19 18:32</sub>
+<sub>数据快照 2026-11-19 17:59（UTC+8）· 最近提交 2026-11-19 22:30</sub>
