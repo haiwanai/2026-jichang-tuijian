@@ -56,7 +56,7 @@
 - [2026年秒秒云机场测评：每档都含 3 元起步费，6 元档单价反而最贵](https://haiwanai.com/review/秒秒云/) · 2026-11-18
 - [2026年百变小樱机场测评：加的钱正好买设备位，月付线 13.33 元一台、年付线 3.33 元一台](https://haiwanai.com/review/百变小樱/) · 2026-11-18
 - [2026年瑶瑶领先机场测评：9.9 元是一个人的 128GB，0.1 倍率线把它放大成 1280GB](https://haiwanai.com/review/瑶瑶领先/) · 2026-11-18
-- [2026年极速Cloud机场测评：1000G 月付 30 元，不限时 329 元，五档单价一分不降](https://haiwanai.com/review/极速Cloud/) · 2026-11-18
+- [2026年极速Cloud机场测评：1000G 月付 30 元，不限时 329 元，五档单价一分不降](https://haiwanai.com/review/极速cloud/) · 2026-11-18
 - [2026年扬帆云机场测评：不限时包 = 月付 × 6，两年付 = 月付 × 24](https://haiwanai.com/review/扬帆云/) · 2026-11-18
 - [2026年悠兔机场测评：同一个 79 元，一边 500G 一个月，一边 150G 三个月](https://haiwanai.com/review/悠兔/) · 2026-11-18
 - [2026年山水云机场测评：月付 500G 每 GB 7 分 8，99 元的 100G 包 9 毛 9](https://haiwanai.com/review/山水云/) · 2026-11-18
@@ -67,9 +67,9 @@
 - [2026年wgetcloud机场测评：月费不变，月付 160G、季付 230G、年付 280G](https://haiwanai.com/review/wgetcloud/) · 2026-11-18
 - [2026年TAG机场测评：114 元档加一次 87 元重置，比 219 元的档还便宜](https://haiwanai.com/review/tag/) · 2026-11-18
 - [2026年SS-ID机场测评：新疆优化档 200G 卖 60 元，正好是同流量常规档的一倍](https://haiwanai.com/review/ss-id/) · 2026-11-18
-- [2026年Now加速机场测评：同一个 100GB，20 元卖 4 台，25 元卖 8 台](https://haiwanai.com/review/Now加速/) · 2026-11-18
+- [2026年Now加速机场测评：同一个 100GB，20 元卖 4 台，25 元卖 8 台](https://haiwanai.com/review/now加速/) · 2026-11-18
 - [2026年Nexitally机场测评：200G 档是道收费站，往上跳的那 300GB 只要 0.16 元一 G](https://haiwanai.com/review/nexitally/) · 2026-11-18
-- [2026年KuLi云机场测评：29.9 元那一跳换了线路，92.8 元那一跳只换了价签](https://haiwanai.com/review/KuLi云/) · 2026-11-18
+- [2026年KuLi云机场测评：29.9 元那一跳换了线路，92.8 元那一跳只换了价签](https://haiwanai.com/review/kuli云/) · 2026-11-18
 - [2026年CyberGuard机场测评：四档订阅都挂着「特惠双倍」，三个不限时包一格没沾](https://haiwanai.com/review/cyberguard/) · 2026-11-18
 - [2026年BoostNet机场测评：「爆款」200G 半年付与 400G 季付是同一个 1200GB，还多收 40 元](https://haiwanai.com/review/boostnet/) · 2026-11-18
 
@@ -109,7 +109,7 @@
 | [自由猫](https://haiwanlink.com/10?site=13hao) | 8 元 | 30GB | 是 | 1000Mbps | [测评](https://haiwanai.com/review/自由猫/) |
 | [仙路湾](https://haiwanlink.com/34?site=13hao) | 10 元 | 50 GB | 是 | 120Mbps | [测评](https://haiwanai.com/review/仙路湾/) |
 | [夜煞云](https://haiwanlink.com/65?site=13hao) | 10 元 | 138GB | 是 | — | [测评](https://haiwanai.com/review/夜煞云/) |
-| [KuLi云](https://haiwanlink.com/66?site=13hao) | 16.8 元 | 150GB | 是 | — | [测评](https://haiwanai.com/review/KuLi云/) |
+| [KuLi云](https://haiwanlink.com/66?site=13hao) | 16.8 元 | 150GB | 是 | — | [测评](https://haiwanai.com/review/kuli云/) |
 
 <a name="all"></a>
 ## 📊 全部机场速览（23 家）
@@ -291,7 +291,7 @@
 | 标称带宽 | 未标注 |
 | 套餐数量 | 5 档 |
 | 官网 | [前往](https://haiwanlink.com/66?site=13hao) |
-| 站内深评 | [完整测评](https://haiwanai.com/review/KuLi云/) |
+| 站内深评 | [完整测评](https://haiwanai.com/review/kuli云/) |
 
 **KuLi云 全部套餐**（数据快照 2026-11-06）
 
@@ -346,7 +346,7 @@
 | 流媒体 / AI | 全球流媒体解锁，热门平台随心看 |
 | 套餐数量 | 9 档 |
 | 官网 | [前往](https://haiwanlink.com/31?site=13hao) |
-| 站内深评 | [完整测评](https://haiwanai.com/review/Now加速/) |
+| 站内深评 | [完整测评](https://haiwanai.com/review/now加速/) |
 
 **Now加速 全部套餐**（数据快照 2026-11-12）
 
@@ -376,7 +376,7 @@
 | 流媒体 / AI | GPT Nf Tk等流媒体全解锁 |
 | 套餐数量 | 11 档 |
 | 官网 | [前往](https://haiwanlink.com/38?site=13hao) |
-| 站内深评 | [完整测评](https://haiwanai.com/review/极速Cloud/) |
+| 站内深评 | [完整测评](https://haiwanai.com/review/极速cloud/) |
 
 **极速Cloud 全部套餐**（数据快照 2026-11-12）
 
@@ -466,7 +466,7 @@
 | 流媒体 / AI | 全球流媒体解锁，热门平台随心看 |
 | 套餐数量 | 7 档 |
 | 官网 | [前往](https://haiwanlink.com/19?site=13hao) |
-| 站内深评 | 待补 |
+| 站内深评 | [完整测评](https://haiwanai.com/review/ss-id/) |
 
 **SS-ID 全部套餐**（数据快照 2026-11-04）
 
@@ -593,7 +593,7 @@
 | 流媒体 / AI | 支持 Netflix / Disney+ / HBO / DAZN 热门平台畅享观看 |
 | 套餐数量 | 7 档 |
 | 官网 | [前往](https://haiwanlink.com/12?site=13hao) |
-| 站内深评 | 待补 |
+| 站内深评 | [完整测评](https://haiwanai.com/review/cyberguard/) |
 
 **CyberGuard 全部套餐**（数据快照 2026-11-13）
 
@@ -673,7 +673,7 @@
 | 标称带宽 | 未标注 |
 | 套餐数量 | 8 档 |
 | 官网 | [前往](https://haiwanlink.com/58?site=13hao) |
-| 站内深评 | 待补 |
+| 站内深评 | [完整测评](https://haiwanai.com/review/nexitally/) |
 
 **Nexitally 全部套餐**（数据快照 2026-11-08）
 
@@ -702,7 +702,7 @@
 | 流媒体 / AI | 解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台的区域限制 解锁ChatGPT、Claude、 Gemini、Cursor等主流 AI 工具的区域限制 |
 | 套餐数量 | 6 档 |
 | 官网 | [前往](https://haiwanlink.com/54?site=13hao) |
-| 站内深评 | 待补 |
+| 站内深评 | [完整测评](https://haiwanai.com/review/tag/) |
 
 **TAG 全部套餐**（数据快照 2026-11-05）
 
@@ -765,4 +765,4 @@
 - 我们不做代购、不收上架费；推广链接在表格里直接标出，不藏在文末。
 - 「标称带宽」「流媒体解锁」均为商家标注，本站未做商用测速，数据里没有的写「未标注」。
 
-<sub>数据快照 2026-11-19 17:59（UTC+8）· 最近提交 2026-11-19 18:31</sub>
+<sub>数据快照 2026-11-19 17:59（UTC+8）· 最近提交 2026-11-19 18:32</sub>
