@@ -15,19 +15,20 @@
 <a name="update"></a>
 ## 📢 本期更新（2026-11-22）
 
-今日更新：新增 SakuraCat、prprCloud
+今日更新：无变动，价格与昨天一致。
 
-站内近 10 天新发布 42 篇：
+站内近 10 天新发布 43 篇：
+- [混元 Hy4 开源权重怎么下：2026 年三个版本别下错](https://haiwanai.com/scenario/dev/hunyuan-hy4-weights/) · 2026-11-22
 - [ChatGPT Space 上 Plus：共享页面怎么开](https://haiwanai.com/scenario/ai/chatgpt-space-plus/) · 2026-11-21
 - [Mac 版 Gemini 电脑操控：国内怎么用，先备三样](https://haiwanai.com/scenario/desktop/gemini-mac-computer-use/) · 2026-11-20
 - [龙猫云跑路预警全记录：2026年续费风险与登录故障事件](https://haiwanai.com/paolu/longmaoyun-paolu-evidence-20261119/) · 2026-11-19
 - [隐云跑路了吗？与奈云同主体风险的完整梳理（2026年11月）](https://haiwanai.com/paolu/yinyun-paolu-evidence-20261119/) · 2026-11-19
 - [速蛙云跑路全记录：2022年头部机场拔线始末与挂站警示](https://haiwanai.com/paolu/suwayun-paolu-evidence-20261119/) · 2026-11-19
-- [极速云失联记录：GitHub已收录预警，年付大包损失上限高（2026年11月）](https://haiwanai.com/paolu/jisuyun-paolu-evidence-20261119/) · 2026-11-19
 
 <a name="latest"></a>
 ## 🆕 站内最新发布
 
+- **2026-11-22** [混元 Hy4 开源权重怎么下：2026 年三个版本别下错](https://haiwanai.com/scenario/dev/hunyuan-hy4-weights/)
 - **2026-11-21** [ChatGPT Space 上 Plus：共享页面怎么开](https://haiwanai.com/scenario/ai/chatgpt-space-plus/)
 - **2026-11-20** [Mac 版 Gemini 电脑操控：国内怎么用，先备三样](https://haiwanai.com/scenario/desktop/gemini-mac-computer-use/)
 - **2026-11-19** [龙猫云跑路预警全记录：2026年续费风险与登录故障事件](https://haiwanai.com/paolu/longmaoyun-paolu-evidence-20261119/)
@@ -41,11 +42,10 @@
 - **2026-11-19** [Seutyre 机场跑路实录：开业 40 天就收割，低价陷阱的完整时间线（2026）](https://haiwanai.com/paolu/seutyre-paolu-evidence-20261119/)
 - **2026-11-19** [Seele Cloud（西尔云）停服失联：2026年11月高危状态记录](https://haiwanai.com/paolu/seele-cloud-paolu-evidence-20261119/)
 - **2026-11-19** [SKYLUMO跑路实锤：2026年10月官网下线事件全记录](https://haiwanai.com/paolu/skylumo-paolu-evidence-20261119/)
-- **2026-11-19** [OpenAI 新规 11 月 20 日生效：用中转接口的先做三件事](https://haiwanai.com/scenario/ai/openai-gateway-policy/)
 
 完整栏目：[任务攻略](https://haiwanai.com/scenario/) · [机场深评](https://haiwanai.com/review/) · [跑路预警](https://haiwanai.com/paolu/)
 
-## 📚 站内内容目录（42 篇）
+## 📚 站内内容目录（43 篇）
 
 ### 机场深评（23 篇）
 
@@ -73,7 +73,7 @@
 - [2026 Nexitally测评：200G档是收费站，往上的300GB只要0.16元/G](https://haiwanai.com/review/nexitally/) · 2026-11-18
 - [2026 BoostNet测评：爆款200G半年付与400G季付是同一份1200GB，多收40元](https://haiwanai.com/review/boostnet/) · 2026-11-18
 
-### 任务攻略（8 篇）
+### 任务攻略（9 篇）
 
 **AI 工具**（4）
 - [ChatGPT Space 上 Plus：共享页面怎么开](https://haiwanai.com/scenario/ai/chatgpt-space-plus/) · 2026-11-21
@@ -84,6 +84,9 @@
 **设计出图**（2）
 - [Nano Banana 2.1 国内怎么用：2026 年 11 月的三道关](https://haiwanai.com/scenario/design/nano-banana-2-1-cn/) · 2026-11-17
 - [Midjourney 国内怎么用：2026 年先解决这两步](https://haiwanai.com/scenario/design/midjourney-cn/) · 2026-11-17
+
+**开发部署**（1）
+- [混元 Hy4 开源权重怎么下：2026 年三个版本别下错](https://haiwanai.com/scenario/dev/hunyuan-hy4-weights/) · 2026-11-22
 
 **桌面端**（1）
 - [Mac 版 Gemini 电脑操控：国内怎么用，先备三样](https://haiwanai.com/scenario/desktop/gemini-mac-computer-use/) · 2026-11-20
@@ -825,4 +828,4 @@
 - 我们不做代购、不收上架费；推广链接在表格里直接标出，不藏在文末。
 - 「标称带宽」「流媒体解锁」均为商家标注，本站未做商用测速，数据里没有的写「未标注」。
 
-<sub>数据快照 2026-11-22 17:53（UTC+8）· 最近提交 2026-11-22 18:20</sub>
+<sub>数据快照 2026-11-22 17:53（UTC+8）· 最近提交 2026-11-22 22:30</sub>
