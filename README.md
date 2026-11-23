@@ -1,6 +1,6 @@
 # 2026 机场推荐清单｜套餐 · 线路 · 单 GB 成本 · 跑路预警（25 家，每日同步）
 
-![更新](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0-2026--11--23-00e676) ![收录](https://img.shields.io/badge/%E6%94%B6%E5%BD%95-25%20%E5%AE%B6-00b0ff) ![套餐](https://img.shields.io/badge/%E5%A5%97%E9%A4%90-172%20%E6%A1%A3-fbbf24) ![预警](https://img.shields.io/badge/%E8%B7%91%E8%B7%AF%E9%A2%84%E8%AD%A6-237%20%E5%AE%B6-ff5252)
+![更新](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0-2026--11--23-00e676) ![收录](https://img.shields.io/badge/%E6%94%B6%E5%BD%95-25%20%E5%AE%B6-00b0ff) ![套餐](https://img.shields.io/badge/%E5%A5%97%E9%A4%90-172%20%E6%A1%A3-fbbf24) ![预警](https://img.shields.io/badge/%E8%B7%91%E8%B7%AF%E9%A2%84%E8%AD%A6-238%20%E5%AE%B6-ff5252)
 
 这是 [海湾情报局 haiwanai.com](https://haiwanai.com/tuijian/) 机场库的 GitHub 镜像：25 家在营机场，172 档套餐逐个列出价格、周期、流量和折合单价，每条都能在机场官网核对。我们不做测速造假，商家没写的一律标「未标注」。
 
@@ -17,17 +17,18 @@
 
 今日更新：无变动，价格与昨天一致。
 
-站内近 10 天新发布 47 篇：
+站内近 10 天新发布 48 篇：
+- [速界机场跑路了吗？2026年11月面板接口全线 502 的三条独立反馈核查](https://haiwanai.com/paolu/sujie-paolu-evidence-20261123/) · 2026-11-23
 - [prprCloud 横评：1 个套餐对比与适合谁](https://haiwanai.com/review/prprcloud/) · 2026-11-23
 - [SakuraCat 横评：9 个套餐对比与适合谁](https://haiwanai.com/review/sakuracat/) · 2026-11-23
 - [Netflix 日区涨价：老会员 12 月前算清三笔账](https://haiwanai.com/scenario/streaming/netflix-jp-price-hike/) · 2026-11-23
 - [混元 Hy4 开源权重怎么下：2026 年三个版本别下错](https://haiwanai.com/scenario/dev/hunyuan-hy4-weights/) · 2026-11-22
 - [安妮office（原ANYLAND）跑路了吗？2026年11月节点全红与客服静默核查](https://haiwanai.com/paolu/annioffice-paolu-evidence-20261122/) · 2026-11-22
-- [ChatGPT Space 上 Plus：共享页面怎么开](https://haiwanai.com/scenario/ai/chatgpt-space-plus/) · 2026-11-21
 
 <a name="latest"></a>
 ## 🆕 站内最新发布
 
+- **2026-11-23** [速界机场跑路了吗？2026年11月面板接口全线 502 的三条独立反馈核查](https://haiwanai.com/paolu/sujie-paolu-evidence-20261123/)
 - **2026-11-23** [prprCloud 横评：1 个套餐对比与适合谁](https://haiwanai.com/review/prprcloud/)
 - **2026-11-23** [SakuraCat 横评：9 个套餐对比与适合谁](https://haiwanai.com/review/sakuracat/)
 - **2026-11-23** [Netflix 日区涨价：老会员 12 月前算清三笔账](https://haiwanai.com/scenario/streaming/netflix-jp-price-hike/)
@@ -41,11 +42,10 @@
 - **2026-11-19** [极速云失联记录：GitHub已收录预警，年付大包损失上限高（2026年11月）](https://haiwanai.com/paolu/jisuyun-paolu-evidence-20261119/)
 - **2026-11-19** [奈云（V2NY）跑路全记录：2026年7月倒闭事件与同主体连锁风险](https://haiwanai.com/paolu/naiyun-paolu-evidence-20261119/)
 - **2026-11-19** [万达云跑路了吗？2026年11月最新状态与证据全记录](https://haiwanai.com/paolu/wandayun-paolu-evidence-20261119/)
-- **2026-11-19** [一元机场跑路了吗？2026年11月节点全红、群组争议与证据核查](https://haiwanai.com/paolu/yiyuanjichang-paolu-evidence-20261119/)
 
 完整栏目：[任务攻略](https://haiwanai.com/scenario/) · [机场深评](https://haiwanai.com/review/) · [跑路预警](https://haiwanai.com/paolu/)
 
-## 📚 站内内容目录（47 篇）
+## 📚 站内内容目录（48 篇）
 
 ### 机场深评（25 篇）
 
@@ -99,8 +99,9 @@
 **家长/学生机**（1）
 - [三口之家机场怎么选：100 元预算，三台设备怎么分](https://haiwanai.com/scenario/parent/family-three-budget-airport/) · 2026-11-18
 
-### 跑路预警与证据（12 篇）
+### 跑路预警与证据（13 篇）
 
+- [速界机场跑路了吗？2026年11月面板接口全线 502 的三条独立反馈核查](https://haiwanai.com/paolu/sujie-paolu-evidence-20261123/) · 2026-11-23
 - [安妮office（原ANYLAND）跑路了吗？2026年11月节点全红与客服静默核查](https://haiwanai.com/paolu/annioffice-paolu-evidence-20261122/) · 2026-11-22
 - [龙猫云跑路预警全记录：2026年续费风险与登录故障事件](https://haiwanai.com/paolu/longmaoyun-paolu-evidence-20261119/) · 2026-11-19
 - [隐云跑路了吗？与奈云同主体风险的完整梳理（2026年11月）](https://haiwanai.com/paolu/yinyun-paolu-evidence-20261119/) · 2026-11-19
@@ -801,7 +802,7 @@
 - **大象网络** 0.117 元/GB（35 元 / 300GB） · [官网](https://haiwanlink.com/33?site=13hao)
 
 <a name="paolu"></a>
-## ⚠️ 跑路 / 停服预警（在册 237 家）
+## ⚠️ 跑路 / 停服预警（在册 238 家）
 
 已确认停服 233 家。判据：本站监测显示不可用、官网长期打不开、节点集体失效、客服无响应，两类以上独立信号才算。
 
@@ -834,4 +835,4 @@
 - 我们不做代购、不收上架费；推广链接在表格里直接标出，不藏在文末。
 - 「标称带宽」「流媒体解锁」均为商家标注，本站未做商用测速，数据里没有的写「未标注」。
 
-<sub>数据快照 2026-11-23 17:51（UTC+8）· 最近提交 2026-11-23 22:30</sub>
+<sub>数据快照 2026-11-23 17:51（UTC+8）· 最近提交 2026-11-23 22:42</sub>
