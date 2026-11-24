@@ -1,6 +1,6 @@
 # 2026 机场推荐清单｜套餐 · 线路 · 单 GB 成本 · 跑路预警（25 家，每日同步）
 
-![更新](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0-2026--11--23-00e676) ![收录](https://img.shields.io/badge/%E6%94%B6%E5%BD%95-25%20%E5%AE%B6-00b0ff) ![套餐](https://img.shields.io/badge/%E5%A5%97%E9%A4%90-172%20%E6%A1%A3-fbbf24) ![预警](https://img.shields.io/badge/%E8%B7%91%E8%B7%AF%E9%A2%84%E8%AD%A6-238%20%E5%AE%B6-ff5252)
+![更新](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0-2026--11--24-00e676) ![收录](https://img.shields.io/badge/%E6%94%B6%E5%BD%95-25%20%E5%AE%B6-00b0ff) ![套餐](https://img.shields.io/badge/%E5%A5%97%E9%A4%90-172%20%E6%A1%A3-fbbf24) ![预警](https://img.shields.io/badge/%E8%B7%91%E8%B7%AF%E9%A2%84%E8%AD%A6-238%20%E5%AE%B6-ff5252)
 
 这是 [海湾情报局 haiwanai.com](https://haiwanai.com/tuijian/) 机场库的 GitHub 镜像：25 家在营机场，172 档套餐逐个列出价格、周期、流量和折合单价，每条都能在机场官网核对。我们不做测速造假，商家没写的一律标「未标注」。
 
@@ -13,14 +13,14 @@
 - [10 元以内](#cheap) · [10–20 元](#mid) · [20 元以上](#high) · [单 GB 最便宜](#value) · [跑路预警](#paolu)
 
 <a name="update"></a>
-## 📢 本期更新（2026-11-23）
+## 📢 本期更新（2026-11-24）
 
 今日更新：无变动，价格与昨天一致。
 
 站内近 10 天新发布 48 篇：
+- [2026年SakuraCat机场测评：过了 8.8 元，每加一元买到的流量一档比一档少](https://haiwanai.com/review/sakuracat/) · 2026-11-24
 - [速界机场跑路了吗？2026年11月面板接口全线 502 的三条独立反馈核查](https://haiwanai.com/paolu/sujie-paolu-evidence-20261123/) · 2026-11-23
 - [prprCloud 横评：1 个套餐对比与适合谁](https://haiwanai.com/review/prprcloud/) · 2026-11-23
-- [SakuraCat 横评：9 个套餐对比与适合谁](https://haiwanai.com/review/sakuracat/) · 2026-11-23
 - [Netflix 日区涨价：老会员 12 月前算清三笔账](https://haiwanai.com/scenario/streaming/netflix-jp-price-hike/) · 2026-11-23
 - [混元 Hy4 开源权重怎么下：2026 年三个版本别下错](https://haiwanai.com/scenario/dev/hunyuan-hy4-weights/) · 2026-11-22
 - [安妮office（原ANYLAND）跑路了吗？2026年11月节点全红与客服静默核查](https://haiwanai.com/paolu/annioffice-paolu-evidence-20261122/) · 2026-11-22
@@ -28,9 +28,9 @@
 <a name="latest"></a>
 ## 🆕 站内最新发布
 
+- **2026-11-24** [2026年SakuraCat机场测评：过了 8.8 元，每加一元买到的流量一档比一档少](https://haiwanai.com/review/sakuracat/)
 - **2026-11-23** [速界机场跑路了吗？2026年11月面板接口全线 502 的三条独立反馈核查](https://haiwanai.com/paolu/sujie-paolu-evidence-20261123/)
 - **2026-11-23** [prprCloud 横评：1 个套餐对比与适合谁](https://haiwanai.com/review/prprcloud/)
-- **2026-11-23** [SakuraCat 横评：9 个套餐对比与适合谁](https://haiwanai.com/review/sakuracat/)
 - **2026-11-23** [Netflix 日区涨价：老会员 12 月前算清三笔账](https://haiwanai.com/scenario/streaming/netflix-jp-price-hike/)
 - **2026-11-22** [混元 Hy4 开源权重怎么下：2026 年三个版本别下错](https://haiwanai.com/scenario/dev/hunyuan-hy4-weights/)
 - **2026-11-22** [安妮office（原ANYLAND）跑路了吗？2026年11月节点全红与客服静默核查](https://haiwanai.com/paolu/annioffice-paolu-evidence-20261122/)
@@ -49,8 +49,8 @@
 
 ### 机场深评（25 篇）
 
+- [2026年SakuraCat机场测评：过了 8.8 元，每加一元买到的流量一档比一档少](https://haiwanai.com/review/sakuracat/) · 2026-11-24
 - [prprCloud 横评：1 个套餐对比与适合谁](https://haiwanai.com/review/prprcloud/) · 2026-11-23
-- [SakuraCat 横评：9 个套餐对比与适合谁](https://haiwanai.com/review/sakuracat/) · 2026-11-23
 - [2026酷酷云测评：全节点1倍率写进价签，100GB真能用100GB](https://haiwanai.com/review/酷酷云/) · 2026-11-18
 - [2026年闪狐云机场测评：四档说明一字不差，20 元档单价反而最贵](https://haiwanai.com/review/闪狐云/) · 2026-11-18
 - [2026年自由猫机场测评：19.9 元那一跳单价最贵，7.9 元买到 7 个设备位](https://haiwanai.com/review/自由猫/) · 2026-11-18
@@ -140,12 +140,12 @@
 | [夜煞云](https://haiwanlink.com/65?site=13hao) | 10 元 | 10 元 | 138GB | 0.072 | 5 | 在营 |
 | [山水云](https://haiwanlink.com/36?site=13hao) | 12 元 | 12 元 | 100GB，次月购买日重置 | 0.120 | 8 | 在营 |
 | [Now加速](https://haiwanlink.com/31?site=13hao) | 15 元 | 15 元 | 50GB | 0.300 | 9 | 在营 |
-| [极速Cloud](https://haiwanlink.com/38?site=13hao) | 15 元 | 15 元 | 200GB | 0.075 | 11 | 在营 |
 | [prprCloud](https://haiwanlink.com/68?site=13hao) | 15 元 | 15 元 | 120–1000GB（流量档用户自选可调，最低档120GB） | 0.015 | 1 | 在营 |
+| [极速Cloud](https://haiwanlink.com/38?site=13hao) | 15 元 | 15 元 | 200GB | 0.075 | 11 | 在营 |
 | [KuLi云](https://haiwanlink.com/66?site=13hao) | 16.8 元 | 16.8 元 | 150GB | 0.112 | 5 | 在营 |
 | [扬帆云](https://haiwanlink.com/59?site=13hao) | 19.99 元 | 19.99 元 | 100 GB/周期 | 0.200 | 13 | 在营 |
-| [酷酷云](https://haiwanlink.com/17?site=13hao) | 20 元 | 20 元 | 100GB | 0.200 | 4 | 在营 |
 | [SS-ID](https://haiwanlink.com/19?site=13hao) | 20 元 | 20 元 | 100 GB | 0.200 | 7 | 在营 |
+| [酷酷云](https://haiwanlink.com/17?site=13hao) | 20 元 | 20 元 | 100GB | 0.200 | 4 | 在营 |
 | [闪狐云](https://haiwanlink.com/15?site=13hao) | 20 元 | 20 元 | 120GB | 0.167 | 4 | 在营 |
 | [百变小樱](https://haiwanlink.com/53?site=13hao) | 25 元 | 25 元 | 200GB（重置） | 0.125 | 23 | 在营 |
 | [红杏云](https://haiwanlink.com/20?site=13hao) | 28.8 元 | 28.8 元 | 200 GB（可购买重置包） | 0.144 | 6 | 在营 |
@@ -154,8 +154,8 @@
 | [悠兔](https://haiwanlink.com/13?site=13hao) | 39 元 | 39 元 | 150GB | 0.260 | 7 | 在营 |
 | [Nexitally](https://haiwanlink.com/58?site=13hao) | 74.55 元 | 74.55 元 | 200GB/31天 | 0.373 | 8 | 在营 |
 | [BoostNet](https://haiwanlink.com/21?site=13hao) | — | — | 20GB | — | 5 | 在营 |
-| [wgetcloud](https://haiwanlink.com/55?site=13hao) | — | — | 230GB（30天重置，季付档显示）；月付160GB、年付280GB | — | 3 | 在营 |
 | [一枝红杏](https://haiwanlink.com/16?site=13hao) | — | — | 100GB | — | 2 | 在营 |
+| [wgetcloud](https://haiwanlink.com/55?site=13hao) | — | — | 230GB（30天重置，季付档显示）；月付160GB、年付280GB | — | 3 | 在营 |
 | [TAG](https://haiwanlink.com/54?site=13hao) | 114 元 | 114 元 | 500 GB（重置） | 0.228 | 6 | 在营 |
 
 <a name="cheap"></a>
@@ -412,6 +412,28 @@
 
 商家口径：500Mbps；标准线路，不含家宽；品质节点15+；1Gbps；高级专线，部分家宽。均为商家标注，本站未做商用测速。
 
+### prprCloud —— 15 元 / 120–1000GB（流量档用户自选可调，最低档120GB） 档起
+
+| 项目 | 详情 |
+|:---|:---|
+| 最低月付 | 15 元（Aurora Access · 120–1000GB（流量档用户自选可调，最低档120GB）） |
+| 折合月价最低 | 15 元（年付/一次性摊平后，看单 GB 更准） |
+| 单 GB 成本 | 0.015 元/GB（按最低档算） |
+| 大陆直连 | 是（商家标注） |
+| 标称带宽 | 未标注 |
+| 流媒体 / AI | 广泛地区流媒体访问解锁 |
+| 套餐数量 | 1 档 |
+| 官网 | [前往](https://haiwanlink.com/68?site=13hao) |
+| 站内深评 | [完整测评](https://haiwanai.com/review/prprcloud/) |
+
+**prprCloud 全部套餐**（数据快照 2026-11-22）
+
+| 套餐 | 价格 | 周期 | 流量 | 折合月价 | 单 GB | 客户端数 |
+|:---|--:|:--|:---|--:|--:|:---|
+| Aurora Access | 15 元 | 按月计费，流量档每月可自行调整 | 120–1000GB（流量档用户自选可调，最低档120GB） | 15 元 | 0.015 元 | 不限 |
+
+商家口径：速度不限；2+运营商接入、20+边缘网络；流媒体解锁；不适用SLA保障；仅限账户本人使用。均为商家标注，本站未做商用测速。
+
 ### 极速Cloud —— 三网优化精品线路，保证24h流畅 解锁冷门国家和原生…（长周期单价更贵）
 
 | 项目 | 详情 |
@@ -443,28 +465,6 @@
 | 不限时间-1000G | 329 元 | 不限时间 | 1000GB（用完为止） | — | 0.329 元 | 3台 |
 
 商家口径：仅限新人购买；不可续费；流媒体全解锁；可选季付/半年/年付；原生IP。均为商家标注，本站未做商用测速。
-
-### prprCloud —— 15 元 / 120–1000GB（流量档用户自选可调，最低档120GB） 档起
-
-| 项目 | 详情 |
-|:---|:---|
-| 最低月付 | 15 元（Aurora Access · 120–1000GB（流量档用户自选可调，最低档120GB）） |
-| 折合月价最低 | 15 元（年付/一次性摊平后，看单 GB 更准） |
-| 单 GB 成本 | 0.015 元/GB（按最低档算） |
-| 大陆直连 | 是（商家标注） |
-| 标称带宽 | 未标注 |
-| 流媒体 / AI | 广泛地区流媒体访问解锁 |
-| 套餐数量 | 1 档 |
-| 官网 | [前往](https://haiwanlink.com/68?site=13hao) |
-| 站内深评 | [完整测评](https://haiwanai.com/review/prprcloud/) |
-
-**prprCloud 全部套餐**（数据快照 2026-11-22）
-
-| 套餐 | 价格 | 周期 | 流量 | 折合月价 | 单 GB | 客户端数 |
-|:---|--:|:--|:---|--:|--:|:---|
-| Aurora Access | 15 元 | 按月计费，流量档每月可自行调整 | 120–1000GB（流量档用户自选可调，最低档120GB） | 15 元 | 0.015 元 | 不限 |
-
-商家口径：速度不限；2+运营商接入、20+边缘网络；流媒体解锁；不适用SLA保障；仅限账户本人使用。均为商家标注，本站未做商用测速。
 
 ### 扬帆云 —— 19.99 元 / 100 GB/周期 档起（长周期单价更贵）
 
@@ -499,31 +499,6 @@
 
 商家口径：200Mbps·等级一节点·全球节点+解锁流媒体·标准节点；等级一二节点·解锁流媒体；部分IEPL·解锁流媒体；2Gbps·全等级节点含全IEPL专线·买3送1·解锁流媒体；不限速(另标2000Mbps)·全等级节点·买3送1·解锁流媒体。均为商家标注，本站未做商用测速。
 
-### 酷酷云 —— AI 工具支持：原生解锁 ChatGPT、Claud…
-
-| 项目 | 详情 |
-|:---|:---|
-| 最低月付 | 20 元（VIP-1 · 100GB） |
-| 折合月价最低 | 20 元（年付/一次性摊平后，看单 GB 更准） |
-| 单 GB 成本 | 0.200 元/GB（按最低档算） |
-| 大陆直连 | 是（商家标注） |
-| 标称带宽 | 1000Mbps |
-| 流媒体 / AI | 全面支持 Netflix / Hulu / HBO / Disney+ / Dazn 等主流平台，秒开4K，畅享8K 超高清观影体验 |
-| 套餐数量 | 4 档 |
-| 官网 | [前往](https://haiwanlink.com/17?site=13hao) |
-| 站内深评 | [完整测评](https://haiwanai.com/review/酷酷云/) |
-
-**酷酷云 全部套餐**（数据快照 2026-11-05）
-
-| 套餐 | 价格 | 周期 | 流量 | 折合月价 | 单 GB | 客户端数 |
-|:---|--:|:--|:---|--:|--:|:---|
-| VIP-1 | 20 元 | 月付 | 100GB | 20 元 | 0.200 元 | 不限制设备 |
-| VIP-2 | 40 元 | 月付 | 200GB | 40 元 | 0.200 元 | 不限制设备 |
-| VIP-3 | 90 元 | 月付 | 500GB | 90 元 | 0.180 元 | 不限制设备 |
-| VIP-4 | 160 元 | 月付 | 1000GB | 160 元 | 0.160 元 | 不限制设备 |
-
-商家口径：BGP三网专线、不限速不降速、所有节点x1倍率；解锁Netflix/Hulu/HBO/Disney+/Dazn及ChatGPT/Claude；Trojan协议；购买链接/checkout?id=3；购买链接/checkout?id=4。均为商家标注，本站未做商用测速。
-
 ### SS-ID —— IEPL专线加速，告别卡顿延迟
 
 | 项目 | 详情 |
@@ -551,6 +526,31 @@
 | 600G月流量 | 85 元 | 月 | 600 GB | 85 元 | 0.142 元 | 5台设备同时在线 |
 
 商家口径：流量每月账单日重置；IEPL专线加速；全球流媒体解锁；7×24小时技术支持；99.9%稳定运行保障。均为商家标注，本站未做商用测速。
+
+### 酷酷云 —— AI 工具支持：原生解锁 ChatGPT、Claud…
+
+| 项目 | 详情 |
+|:---|:---|
+| 最低月付 | 20 元（VIP-1 · 100GB） |
+| 折合月价最低 | 20 元（年付/一次性摊平后，看单 GB 更准） |
+| 单 GB 成本 | 0.200 元/GB（按最低档算） |
+| 大陆直连 | 是（商家标注） |
+| 标称带宽 | 1000Mbps |
+| 流媒体 / AI | 全面支持 Netflix / Hulu / HBO / Disney+ / Dazn 等主流平台，秒开4K，畅享8K 超高清观影体验 |
+| 套餐数量 | 4 档 |
+| 官网 | [前往](https://haiwanlink.com/17?site=13hao) |
+| 站内深评 | [完整测评](https://haiwanai.com/review/酷酷云/) |
+
+**酷酷云 全部套餐**（数据快照 2026-11-05）
+
+| 套餐 | 价格 | 周期 | 流量 | 折合月价 | 单 GB | 客户端数 |
+|:---|--:|:--|:---|--:|--:|:---|
+| VIP-1 | 20 元 | 月付 | 100GB | 20 元 | 0.200 元 | 不限制设备 |
+| VIP-2 | 40 元 | 月付 | 200GB | 40 元 | 0.200 元 | 不限制设备 |
+| VIP-3 | 90 元 | 月付 | 500GB | 90 元 | 0.180 元 | 不限制设备 |
+| VIP-4 | 160 元 | 月付 | 1000GB | 160 元 | 0.160 元 | 不限制设备 |
+
+商家口径：BGP三网专线、不限速不降速、所有节点x1倍率；解锁Netflix/Hulu/HBO/Disney+/Dazn及ChatGPT/Claude；Trojan协议；购买链接/checkout?id=3；购买链接/checkout?id=4。均为商家标注，本站未做商用测速。
 
 ### 闪狐云 —— BGP隧道中转，IPLC高速内网纯专线出口
 
@@ -835,4 +835,4 @@
 - 我们不做代购、不收上架费；推广链接在表格里直接标出，不藏在文末。
 - 「标称带宽」「流媒体解锁」均为商家标注，本站未做商用测速，数据里没有的写「未标注」。
 
-<sub>数据快照 2026-11-23 17:51（UTC+8）· 最近提交 2026-11-23 22:42</sub>
+<sub>数据快照 2026-11-24 17:44（UTC+8）· 最近提交 2026-11-24 18:20</sub>
