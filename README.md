@@ -17,17 +17,18 @@
 
 今日更新：无变动，价格与昨天一致。
 
-站内近 10 天新发布 49 篇：
+站内近 10 天新发布 50 篇：
+- [Google AI 黑五五折：老用户 11 月 26 日前怎么续年付](https://haiwanai.com/scenario/ai/google-ai-black-friday/) · 2026-11-25
 - [Claude Ship 国内怎么用：团队开通先设两道上限](https://haiwanai.com/scenario/dev/claude-ship-setup/) · 2026-11-24
 - [2026年SakuraCat机场测评：过了 8.8 元，每加一元买到的流量一档比一档少](https://haiwanai.com/review/sakuracat/) · 2026-11-24
 - [速界机场跑路了吗？2026年11月面板接口全线 502 的三条独立反馈核查](https://haiwanai.com/paolu/sujie-paolu-evidence-20261123/) · 2026-11-23
 - [prprCloud 横评：1 个套餐对比与适合谁](https://haiwanai.com/review/prprcloud/) · 2026-11-23
 - [Netflix 日区涨价：老会员 12 月前算清三笔账](https://haiwanai.com/scenario/streaming/netflix-jp-price-hike/) · 2026-11-23
-- [混元 Hy4 开源权重怎么下：2026 年三个版本别下错](https://haiwanai.com/scenario/dev/hunyuan-hy4-weights/) · 2026-11-22
 
 <a name="latest"></a>
 ## 🆕 站内最新发布
 
+- **2026-11-25** [Google AI 黑五五折：老用户 11 月 26 日前怎么续年付](https://haiwanai.com/scenario/ai/google-ai-black-friday/)
 - **2026-11-24** [Claude Ship 国内怎么用：团队开通先设两道上限](https://haiwanai.com/scenario/dev/claude-ship-setup/)
 - **2026-11-24** [2026年SakuraCat机场测评：过了 8.8 元，每加一元买到的流量一档比一档少](https://haiwanai.com/review/sakuracat/)
 - **2026-11-23** [速界机场跑路了吗？2026年11月面板接口全线 502 的三条独立反馈核查](https://haiwanai.com/paolu/sujie-paolu-evidence-20261123/)
@@ -41,11 +42,10 @@
 - **2026-11-19** [隐云跑路了吗？与奈云同主体风险的完整梳理（2026年11月）](https://haiwanai.com/paolu/yinyun-paolu-evidence-20261119/)
 - **2026-11-19** [速蛙云跑路全记录：2022年头部机场拔线始末与挂站警示](https://haiwanai.com/paolu/suwayun-paolu-evidence-20261119/)
 - **2026-11-19** [极速云失联记录：GitHub已收录预警，年付大包损失上限高（2026年11月）](https://haiwanai.com/paolu/jisuyun-paolu-evidence-20261119/)
-- **2026-11-19** [奈云（V2NY）跑路全记录：2026年7月倒闭事件与同主体连锁风险](https://haiwanai.com/paolu/naiyun-paolu-evidence-20261119/)
 
 完整栏目：[任务攻略](https://haiwanai.com/scenario/) · [机场深评](https://haiwanai.com/review/) · [跑路预警](https://haiwanai.com/paolu/)
 
-## 📚 站内内容目录（49 篇）
+## 📚 站内内容目录（50 篇）
 
 ### 机场深评（25 篇）
 
@@ -75,9 +75,10 @@
 - [2026 Nexitally测评：200G档是收费站，往上的300GB只要0.16元/G](https://haiwanai.com/review/nexitally/) · 2026-11-18
 - [2026 BoostNet测评：爆款200G半年付与400G季付是同一份1200GB，多收40元](https://haiwanai.com/review/boostnet/) · 2026-11-18
 
-### 任务攻略（11 篇）
+### 任务攻略（12 篇）
 
-**AI 工具**（4）
+**AI 工具**（5）
+- [Google AI 黑五五折：老用户 11 月 26 日前怎么续年付](https://haiwanai.com/scenario/ai/google-ai-black-friday/) · 2026-11-25
 - [ChatGPT Space 上 Plus：共享页面怎么开](https://haiwanai.com/scenario/ai/chatgpt-space-plus/) · 2026-11-21
 - [OpenAI 新规 11 月 20 日生效：用中转接口的先做三件事](https://haiwanai.com/scenario/ai/openai-gateway-policy/) · 2026-11-19
 - [Gemini 4 Hydrogen 国内怎么用：免费额度够不够日常](https://haiwanai.com/scenario/ai/gemini-4-hydrogen-cn/) · 2026-11-18
@@ -836,4 +837,4 @@
 - 我们不做代购、不收上架费；推广链接在表格里直接标出，不藏在文末。
 - 「标称带宽」「流媒体解锁」均为商家标注，本站未做商用测速，数据里没有的写「未标注」。
 
-<sub>数据快照 2026-11-25 17:59（UTC+8）· 最近提交 2026-11-25 18:20</sub>
+<sub>数据快照 2026-11-25 17:59（UTC+8）· 最近提交 2026-11-25 22:30</sub>
