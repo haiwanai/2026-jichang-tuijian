@@ -1,6 +1,6 @@
 # 2026 机场推荐清单｜套餐 · 线路 · 单 GB 成本 · 跑路预警（25 家，每日同步）
 
-![更新](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0-2026--11--27-00e676) ![收录](https://img.shields.io/badge/%E6%94%B6%E5%BD%95-25%20%E5%AE%B6-00b0ff) ![套餐](https://img.shields.io/badge/%E5%A5%97%E9%A4%90-172%20%E6%A1%A3-fbbf24) ![预警](https://img.shields.io/badge/%E8%B7%91%E8%B7%AF%E9%A2%84%E8%AD%A6-238%20%E5%AE%B6-ff5252)
+![更新](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0-2026--11--28-00e676) ![收录](https://img.shields.io/badge/%E6%94%B6%E5%BD%95-25%20%E5%AE%B6-00b0ff) ![套餐](https://img.shields.io/badge/%E5%A5%97%E9%A4%90-172%20%E6%A1%A3-fbbf24) ![预警](https://img.shields.io/badge/%E8%B7%91%E8%B7%AF%E9%A2%84%E8%AD%A6-238%20%E5%AE%B6-ff5252)
 
 这是 [海湾情报局 haiwanai.com](https://haiwanai.com/tuijian/) 机场库的 GitHub 镜像：25 家在营机场，172 档套餐逐个列出价格、周期、流量和折合单价，每条都能在机场官网核对。我们不做测速造假，商家没写的一律标「未标注」。
 
@@ -13,11 +13,11 @@
 - [10 元以内](#cheap) · [10–20 元](#mid) · [20 元以上](#high) · [单 GB 最便宜](#value) · [跑路预警](#paolu)
 
 <a name="update"></a>
-## 📢 本期更新（2026-11-27）
+## 📢 本期更新（2026-11-28）
 
 今日更新：无变动，价格与昨天一致。
 
-站内近 10 天新发布 52 篇：
+站内近 10 天新发布 50 篇：
 - [欧盟小包 2 欧元处理费：跨境电商重算三笔账](https://haiwanai.com/scenario/seller/eu-parcel-fee-2eur/) · 2026-11-27
 - [12 月起 ChatGPT 和 Codex 共用一个额度：Plus 用户先查三处](https://haiwanai.com/scenario/ai/chatgpt-codex-usage-pool/) · 2026-11-26
 - [Google AI 黑五五折：老用户 11 月 26 日前怎么续年付](https://haiwanai.com/scenario/ai/google-ai-black-friday/) · 2026-11-25
@@ -151,17 +151,17 @@
 | [KuLi云](https://haiwanlink.com/66?site=13hao) | 16.8 元 | 16.8 元 | 150GB | 0.112 | 5 | 在营 |
 | [扬帆云](https://haiwanlink.com/59?site=13hao) | 19.99 元 | 19.99 元 | 100 GB/周期 | 0.200 | 13 | 在营 |
 | [SS-ID](https://haiwanlink.com/19?site=13hao) | 20 元 | 20 元 | 100 GB | 0.200 | 7 | 在营 |
-| [闪狐云](https://haiwanlink.com/15?site=13hao) | 20 元 | 20 元 | 120GB | 0.167 | 4 | 在营 |
 | [酷酷云](https://haiwanlink.com/17?site=13hao) | 20 元 | 20 元 | 100GB | 0.200 | 4 | 在营 |
+| [闪狐云](https://haiwanlink.com/15?site=13hao) | 20 元 | 20 元 | 120GB | 0.167 | 4 | 在营 |
 | [百变小樱](https://haiwanlink.com/53?site=13hao) | 25 元 | 25 元 | 200GB（重置） | 0.125 | 23 | 在营 |
 | [红杏云](https://haiwanlink.com/20?site=13hao) | 28.8 元 | 28.8 元 | 200 GB（可购买重置包） | 0.144 | 6 | 在营 |
 | [CyberGuard](https://haiwanlink.com/12?site=13hao) | 32 元 | 32 元 | 350GB（特惠双倍至700GB） | 0.091 | 7 | 在营 |
 | [大象网络](https://haiwanlink.com/33?site=13hao) | 35 元 | 35 元 | 300GB | 0.117 | 4 | 在营 |
 | [悠兔](https://haiwanlink.com/13?site=13hao) | 39 元 | 39 元 | 150GB | 0.260 | 7 | 在营 |
 | [Nexitally](https://haiwanlink.com/58?site=13hao) | 74.55 元 | 74.55 元 | 200GB/31天 | 0.373 | 8 | 在营 |
-| [BoostNet](https://haiwanlink.com/21?site=13hao) | — | — | 20GB | — | 5 | 在营 |
 | [一枝红杏](https://haiwanlink.com/16?site=13hao) | — | — | 100GB | — | 2 | 在营 |
 | [wgetcloud](https://haiwanlink.com/55?site=13hao) | — | — | 230GB（30天重置，季付档显示）；月付160GB、年付280GB | — | 3 | 在营 |
+| [BoostNet](https://haiwanlink.com/21?site=13hao) | — | — | 20GB | — | 5 | 在营 |
 | [TAG](https://haiwanlink.com/54?site=13hao) | 114 元 | 114 元 | 500 GB（重置） | 0.228 | 6 | 在营 |
 
 <a name="cheap"></a>
@@ -533,31 +533,6 @@
 
 商家口径：流量每月账单日重置；IEPL专线加速；全球流媒体解锁；7×24小时技术支持；99.9%稳定运行保障。均为商家标注，本站未做商用测速。
 
-### 闪狐云 —— BGP隧道中转，IPLC高速内网纯专线出口
-
-| 项目 | 详情 |
-|:---|:---|
-| 最低月付 | 20 元（Basic Plan · 120GB） |
-| 折合月价最低 | 20 元（年付/一次性摊平后，看单 GB 更准） |
-| 单 GB 成本 | 0.167 元/GB（按最低档算） |
-| 大陆直连 | 是（商家标注） |
-| 标称带宽 | 1000Mbps速率，晚高峰不限速 |
-| 流媒体 / AI | 解锁全球流媒体、AI工具 |
-| 套餐数量 | 4 档 |
-| 官网 | [前往](https://haiwanlink.com/15?site=13hao) |
-| 站内深评 | [完整测评](https://haiwanai.com/review/闪狐云/) |
-
-**闪狐云 全部套餐**（数据快照 2026-11-12）
-
-| 套餐 | 价格 | 周期 | 流量 | 折合月价 | 单 GB | 客户端数 |
-|:---|--:|:--|:---|--:|--:|:---|
-| Basic Plan | 20 元 | 月付 | 120GB | 20 元 | 0.167 元 | 不限设备/IP |
-| Standard Plan | 40 元 | 月付 | 240GB | 40 元 | 0.167 元 | 不限设备/IP |
-| Advanced Plan | 72 元 | 月付 | 500GB | 72 元 | 0.144 元 | 不限设备/IP |
-| Premium Plan | 125 元 | 月付 | 1000GB | 125 元 | 0.125 元 | 不限设备/IP |
-
-商家口径：BGP中转+IPLC专线出口；trojan；解锁流媒体/AI；1000Mbps不限速。均为商家标注，本站未做商用测速。
-
 ### 酷酷云 —— AI 工具支持：原生解锁 ChatGPT、Claud…
 
 | 项目 | 详情 |
@@ -582,6 +557,31 @@
 | VIP-4 | 160 元 | 月付 | 1000GB | 160 元 | 0.160 元 | 不限制设备 |
 
 商家口径：BGP三网专线、不限速不降速、所有节点x1倍率；解锁Netflix/Hulu/HBO/Disney+/Dazn及ChatGPT/Claude；Trojan协议；购买链接/checkout?id=3；购买链接/checkout?id=4。均为商家标注，本站未做商用测速。
+
+### 闪狐云 —— BGP隧道中转，IPLC高速内网纯专线出口
+
+| 项目 | 详情 |
+|:---|:---|
+| 最低月付 | 20 元（Basic Plan · 120GB） |
+| 折合月价最低 | 20 元（年付/一次性摊平后，看单 GB 更准） |
+| 单 GB 成本 | 0.167 元/GB（按最低档算） |
+| 大陆直连 | 是（商家标注） |
+| 标称带宽 | 1000Mbps速率，晚高峰不限速 |
+| 流媒体 / AI | 解锁全球流媒体、AI工具 |
+| 套餐数量 | 4 档 |
+| 官网 | [前往](https://haiwanlink.com/15?site=13hao) |
+| 站内深评 | [完整测评](https://haiwanai.com/review/闪狐云/) |
+
+**闪狐云 全部套餐**（数据快照 2026-11-12）
+
+| 套餐 | 价格 | 周期 | 流量 | 折合月价 | 单 GB | 客户端数 |
+|:---|--:|:--|:---|--:|--:|:---|
+| Basic Plan | 20 元 | 月付 | 120GB | 20 元 | 0.167 元 | 不限设备/IP |
+| Standard Plan | 40 元 | 月付 | 240GB | 40 元 | 0.167 元 | 不限设备/IP |
+| Advanced Plan | 72 元 | 月付 | 500GB | 72 元 | 0.144 元 | 不限设备/IP |
+| Premium Plan | 125 元 | 月付 | 1000GB | 125 元 | 0.125 元 | 不限设备/IP |
+
+商家口径：BGP中转+IPLC专线出口；trojan；解锁流媒体/AI；1000Mbps不限速。均为商家标注，本站未做商用测速。
 
 <a name="high"></a>
 ## 🏛️ 20 元以上（7 家）
@@ -841,4 +841,4 @@
 - 我们不做代购、不收上架费；推广链接在表格里直接标出，不藏在文末。
 - 「标称带宽」「流媒体解锁」均为商家标注，本站未做商用测速，数据里没有的写「未标注」。
 
-<sub>数据快照 2026-11-27 17:50（UTC+8）· 最近提交 2026-11-27 22:30</sub>
+<sub>数据快照 2026-11-28 17:57（UTC+8）· 最近提交 2026-11-28 18:20</sub>
